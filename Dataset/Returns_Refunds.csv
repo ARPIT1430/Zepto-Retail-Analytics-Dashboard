@@ -1,0 +1,1001 @@
+Or_ID,Reason,Return/Refund,Date
+ORD05010,Not Needed Anymore,Refund,2024-05-11
+ORD05021,Not Needed Anymore,Refund,2024-12-31
+ORD02183,Wrong Item Delivered,Refund,2024-04-06
+ORD09209,Wrong Item Delivered,Return,2024-07-16
+ORD02501,Wrong Item Delivered,Refund,2024-12-31
+ORD08465,Quality Issue,Refund,2024-04-23
+ORD07595,Quality Issue,Return,2024-11-17
+ORD08183,Quality Issue,Refund,2024-09-12
+ORD00389,Wrong Item Delivered,Refund,2024-09-27
+ORD02874,Not Needed Anymore,Refund,2024-10-09
+ORD03484,Not Needed Anymore,Return,2024-06-05
+ORD09971,Defective Product,Return,2024-03-02
+ORD08356,Wrong Item Delivered,Return,2024-06-27
+ORD04145,Wrong Item Delivered,Refund,2024-03-05
+ORD05684,Quality Issue,Refund,2024-03-12
+ORD03627,Not Needed Anymore,Return,2024-08-10
+ORD05069,Quality Issue,Refund,2024-12-10
+ORD06247,Quality Issue,Return,2024-02-21
+ORD08621,Quality Issue,Refund,2025-01-01
+ORD00602,Defective Product,Refund,2024-01-25
+ORD06148,Wrong Item Delivered,Refund,2024-10-22
+ORD02723,Quality Issue,Return,2024-04-27
+ORD01236,Not Needed Anymore,Return,2024-03-30
+ORD09817,Quality Issue,Refund,2024-08-07
+ORD09110,Quality Issue,Refund,2024-06-20
+ORD08025,Defective Product,Refund,2024-03-02
+ORD04786,Not Needed Anymore,Return,2024-06-07
+ORD01902,Not Needed Anymore,Return,2024-10-05
+ORD05412,Defective Product,Return,2024-01-27
+ORD00659,Quality Issue,Return,2024-09-30
+ORD09888,Quality Issue,Refund,2024-06-29
+ORD06554,Wrong Item Delivered,Return,2024-05-23
+ORD04485,Wrong Item Delivered,Refund,2024-08-18
+ORD06590,Quality Issue,Return,2024-08-28
+ORD07991,Defective Product,Return,2024-05-26
+ORD04436,Not Needed Anymore,Refund,2024-06-27
+ORD05363,Quality Issue,Refund,2024-09-03
+ORD08587,Quality Issue,Return,2024-04-03
+ORD02568,Wrong Item Delivered,Refund,2024-02-15
+ORD07718,Wrong Item Delivered,Return,2024-12-12
+ORD04460,Not Needed Anymore,Return,2024-02-22
+ORD07086,Defective Product,Return,2024-11-11
+ORD08371,Quality Issue,Return,2024-11-10
+ORD02710,Quality Issue,Refund,2024-09-16
+ORD00763,Quality Issue,Refund,2024-03-02
+ORD04293,Defective Product,Refund,2024-07-13
+ORD01960,Defective Product,Return,2024-12-15
+ORD05795,Wrong Item Delivered,Return,2024-03-09
+ORD00311,Not Needed Anymore,Refund,2025-01-02
+ORD04413,Not Needed Anymore,Refund,2024-05-06
+ORD09861,Not Needed Anymore,Refund,2024-08-08
+ORD07866,Defective Product,Return,2024-08-09
+ORD00855,Wrong Item Delivered,Return,2024-10-05
+ORD05096,Defective Product,Refund,2024-08-23
+ORD04129,Defective Product,Refund,2024-02-18
+ORD08474,Quality Issue,Return,2024-07-05
+ORD09560,Not Needed Anymore,Return,2025-01-02
+ORD00568,Not Needed Anymore,Refund,2024-03-31
+ORD04811,Not Needed Anymore,Return,2024-05-30
+ORD03741,Defective Product,Refund,2024-12-12
+ORD06527,Wrong Item Delivered,Return,2024-12-21
+ORD09754,Quality Issue,Refund,2024-01-25
+ORD06960,Not Needed Anymore,Return,2024-03-20
+ORD07035,Not Needed Anymore,Refund,2024-06-19
+ORD01927,Wrong Item Delivered,Refund,2024-07-20
+ORD03581,Not Needed Anymore,Refund,2024-04-16
+ORD07724,Not Needed Anymore,Refund,2024-05-19
+ORD08812,Quality Issue,Refund,2024-07-26
+ORD00024,Defective Product,Return,2024-03-05
+ORD01105,Not Needed Anymore,Return,2024-11-27
+ORD01394,Quality Issue,Refund,2024-05-09
+ORD01088,Quality Issue,Refund,2024-10-20
+ORD02436,Quality Issue,Refund,2024-08-16
+ORD02451,Wrong Item Delivered,Refund,2024-07-30
+ORD06104,Wrong Item Delivered,Refund,2024-03-14
+ORD07095,Quality Issue,Return,2024-02-15
+ORD01149,Defective Product,Refund,2024-10-27
+ORD06925,Quality Issue,Return,2024-10-28
+ORD02172,Wrong Item Delivered,Refund,2024-11-20
+ORD07761,Quality Issue,Return,2024-08-26
+ORD07930,Not Needed Anymore,Refund,2024-05-26
+ORD02148,Not Needed Anymore,Refund,2024-06-13
+ORD04022,Defective Product,Return,2024-01-25
+ORD09853,Wrong Item Delivered,Refund,2025-01-08
+ORD07626,Defective Product,Return,2024-06-07
+ORD06502,Quality Issue,Refund,2024-11-28
+ORD06709,Wrong Item Delivered,Refund,2024-11-18
+ORD06956,Quality Issue,Refund,2024-03-07
+ORD00673,Defective Product,Refund,2024-12-29
+ORD02312,Defective Product,Return,2024-10-11
+ORD01822,Wrong Item Delivered,Refund,2024-11-10
+ORD08842,Quality Issue,Return,2024-06-08
+ORD09260,Defective Product,Return,2024-03-18
+ORD07664,Wrong Item Delivered,Refund,2024-11-07
+ORD04157,Defective Product,Return,2024-10-17
+ORD09066,Not Needed Anymore,Return,2024-10-29
+ORD05218,Wrong Item Delivered,Refund,2024-03-22
+ORD02299,Quality Issue,Refund,2024-05-20
+ORD08917,Wrong Item Delivered,Refund,2024-09-27
+ORD02981,Quality Issue,Return,2024-05-23
+ORD02956,Not Needed Anymore,Refund,2024-07-21
+ORD07269,Wrong Item Delivered,Return,2024-08-20
+ORD09792,Not Needed Anymore,Refund,2024-06-19
+ORD08229,Wrong Item Delivered,Return,2024-04-13
+ORD00401,Wrong Item Delivered,Refund,2024-12-06
+ORD06284,Wrong Item Delivered,Return,2024-10-24
+ORD00037,Not Needed Anymore,Return,2024-04-25
+ORD09715,Wrong Item Delivered,Refund,2024-10-30
+ORD04819,Defective Product,Return,2024-12-29
+ORD07164,Defective Product,Refund,2024-11-28
+ORD06173,Defective Product,Return,2024-09-22
+ORD09715,Wrong Item Delivered,Return,2024-10-24
+ORD01194,Not Needed Anymore,Return,2024-03-25
+ORD04561,Not Needed Anymore,Refund,2024-01-17
+ORD04971,Defective Product,Return,2024-02-26
+ORD09843,Not Needed Anymore,Return,2024-06-05
+ORD08244,Wrong Item Delivered,Return,2024-05-14
+ORD01553,Quality Issue,Refund,2024-09-03
+ORD01603,Defective Product,Return,2024-12-12
+ORD07186,Wrong Item Delivered,Refund,2024-11-21
+ORD03733,Defective Product,Refund,2024-11-21
+ORD07493,Defective Product,Return,2024-06-10
+ORD01313,Wrong Item Delivered,Return,2024-11-26
+ORD02704,Wrong Item Delivered,Refund,2024-07-22
+ORD01476,Not Needed Anymore,Refund,2024-09-09
+ORD08919,Wrong Item Delivered,Refund,2024-06-22
+ORD08781,Quality Issue,Refund,2024-03-01
+ORD05405,Defective Product,Refund,2024-08-14
+ORD03336,Defective Product,Return,2024-03-19
+ORD08560,Wrong Item Delivered,Refund,2024-04-27
+ORD00399,Not Needed Anymore,Return,2025-01-06
+ORD04857,Not Needed Anymore,Return,2024-12-15
+ORD03895,Not Needed Anymore,Return,2024-04-17
+ORD03158,Defective Product,Return,2024-02-23
+ORD07160,Defective Product,Return,2024-06-18
+ORD08854,Defective Product,Return,2024-03-19
+ORD04301,Quality Issue,Return,2024-05-25
+ORD02215,Quality Issue,Refund,2024-05-07
+ORD07188,Defective Product,Refund,2024-05-02
+ORD03555,Quality Issue,Return,2024-06-15
+ORD04200,Quality Issue,Return,2024-04-30
+ORD07880,Quality Issue,Refund,2024-08-12
+ORD08640,Defective Product,Refund,2024-02-20
+ORD02970,Not Needed Anymore,Refund,2024-11-06
+ORD06664,Defective Product,Return,2024-04-15
+ORD09609,Defective Product,Refund,2024-01-30
+ORD09202,Wrong Item Delivered,Refund,2024-03-19
+ORD09261,Quality Issue,Refund,2024-04-05
+ORD05295,Wrong Item Delivered,Return,2024-10-05
+ORD02740,Wrong Item Delivered,Refund,2024-02-12
+ORD09463,Defective Product,Return,2024-07-06
+ORD07075,Not Needed Anymore,Refund,2024-05-01
+ORD06401,Defective Product,Return,2024-10-27
+ORD03254,Quality Issue,Refund,2024-02-14
+ORD08357,Defective Product,Refund,2024-08-04
+ORD05592,Wrong Item Delivered,Refund,2024-10-07
+ORD09149,Not Needed Anymore,Refund,2024-10-17
+ORD08586,Wrong Item Delivered,Refund,2024-08-30
+ORD01827,Quality Issue,Return,2024-04-09
+ORD06744,Quality Issue,Return,2024-05-01
+ORD06389,Not Needed Anymore,Refund,2024-02-12
+ORD04145,Not Needed Anymore,Refund,2024-03-01
+ORD01595,Wrong Item Delivered,Return,2024-06-13
+ORD08847,Quality Issue,Refund,2024-04-11
+ORD02924,Wrong Item Delivered,Refund,2024-01-28
+ORD02083,Wrong Item Delivered,Return,2024-07-09
+ORD02595,Defective Product,Return,2024-11-27
+ORD06146,Not Needed Anymore,Return,2024-09-21
+ORD06391,Not Needed Anymore,Refund,2024-06-24
+ORD09219,Wrong Item Delivered,Return,2024-12-26
+ORD08379,Not Needed Anymore,Refund,2024-03-12
+ORD05638,Not Needed Anymore,Refund,2024-06-10
+ORD00328,Quality Issue,Return,2024-03-29
+ORD06548,Not Needed Anymore,Refund,2024-04-09
+ORD09668,Not Needed Anymore,Refund,2024-11-09
+ORD03816,Defective Product,Return,2024-03-28
+ORD07377,Wrong Item Delivered,Return,2024-07-04
+ORD02869,Not Needed Anymore,Refund,2024-07-24
+ORD08936,Quality Issue,Refund,2025-01-07
+ORD06014,Defective Product,Refund,2024-08-23
+ORD03652,Wrong Item Delivered,Return,2024-09-19
+ORD07330,Quality Issue,Return,2024-10-23
+ORD03404,Defective Product,Refund,2024-11-29
+ORD04757,Defective Product,Return,2024-07-10
+ORD04255,Not Needed Anymore,Refund,2024-07-10
+ORD08176,Wrong Item Delivered,Refund,2024-09-15
+ORD02095,Wrong Item Delivered,Refund,2024-02-16
+ORD01846,Defective Product,Refund,2024-09-27
+ORD01150,Defective Product,Return,2024-09-13
+ORD08820,Not Needed Anymore,Return,2024-07-31
+ORD05769,Quality Issue,Return,2024-04-23
+ORD00065,Wrong Item Delivered,Return,2024-08-29
+ORD07899,Quality Issue,Return,2024-09-25
+ORD01922,Wrong Item Delivered,Return,2024-08-02
+ORD08336,Not Needed Anymore,Return,2024-07-31
+ORD01734,Defective Product,Return,2024-02-17
+ORD08519,Not Needed Anymore,Refund,2024-04-11
+ORD01146,Defective Product,Refund,2024-10-26
+ORD00067,Not Needed Anymore,Return,2024-03-12
+ORD09378,Defective Product,Return,2024-05-12
+ORD07244,Wrong Item Delivered,Refund,2024-03-08
+ORD05852,Not Needed Anymore,Return,2024-06-12
+ORD09200,Not Needed Anymore,Return,2024-03-27
+ORD00429,Quality Issue,Return,2024-03-04
+ORD07922,Wrong Item Delivered,Refund,2024-09-16
+ORD06634,Wrong Item Delivered,Return,2024-10-07
+ORD06020,Defective Product,Refund,2024-12-28
+ORD09604,Defective Product,Return,2024-08-15
+ORD06531,Quality Issue,Refund,2024-04-24
+ORD02598,Not Needed Anymore,Refund,2024-09-11
+ORD06408,Not Needed Anymore,Return,2024-10-01
+ORD02147,Not Needed Anymore,Refund,2024-05-26
+ORD01014,Defective Product,Refund,2024-08-08
+ORD06773,Wrong Item Delivered,Return,2024-03-30
+ORD01401,Not Needed Anymore,Refund,2024-05-21
+ORD01814,Not Needed Anymore,Refund,2024-07-08
+ORD03161,Defective Product,Return,2024-04-23
+ORD00969,,Return,2024-02-15
+ORD09490,Quality Issue,Return,2024-10-26
+ORD09085,Defective Product,Return,2024-03-23
+ORD02261,Defective Product,Return,2024-08-02
+ORD05395,Defective Product,Return,2024-04-04
+ORD06896,Wrong Item Delivered,Refund,2024-04-05
+ORD02651,Not Needed Anymore,Refund,2024-02-25
+ORD02257,Wrong Item Delivered,Refund,2024-03-08
+ORD00020,Wrong Item Delivered,Refund,2024-12-02
+ORD03328,Not Needed Anymore,Refund,2024-08-05
+ORD06892,Quality Issue,Return,2024-10-22
+ORD04221,Quality Issue,Return,2024-07-19
+ORD05119,Quality Issue,Return,2024-01-31
+ORD03155,Not Needed Anymore,Return,2024-05-22
+ORD06850,Defective Product,Refund,2024-05-29
+ORD05872,Not Needed Anymore,Return,2024-05-19
+ORD05300,Wrong Item Delivered,Return,2024-10-07
+ORD00731,Quality Issue,Refund,2024-03-26
+ORD03438,Wrong Item Delivered,Return,2024-11-11
+ORD04548,Quality Issue,Refund,2024-08-12
+ORD02535,Defective Product,Return,2024-04-06
+ORD01404,Defective Product,Return,2025-01-10
+ORD05529,Wrong Item Delivered,Return,2024-10-17
+ORD07912,Defective Product,Refund,2024-09-19
+ORD08410,Defective Product,Return,2024-08-29
+ORD03766,Defective Product,Return,2024-02-05
+ORD04793,Wrong Item Delivered,Return,2024-10-29
+ORD09375,Defective Product,Return,2024-11-01
+ORD08319,Wrong Item Delivered,Refund,2024-12-21
+ORD07057,Defective Product,Refund,2024-10-08
+ORD02194,Wrong Item Delivered,Refund,2024-07-25
+ORD06597,Defective Product,Refund,2024-02-16
+ORD08396,Wrong Item Delivered,Refund,2024-09-07
+ORD09522,Not Needed Anymore,Refund,2024-06-02
+ORD01472,Not Needed Anymore,Refund,2024-05-08
+ORD00678,Quality Issue,Refund,2024-02-08
+ORD08650,Wrong Item Delivered,Return,2024-01-22
+ORD02267,Defective Product,Return,2024-11-16
+ORD04459,Defective Product,Refund,2024-09-21
+ORD02967,Not Needed Anymore,Refund,2024-05-01
+ORD07517,Wrong Item Delivered,Return,2024-05-10
+ORD06037,Quality Issue,Refund,2024-08-11
+ORD06549,Wrong Item Delivered,Refund,2024-04-02
+ORD00206,Wrong Item Delivered,Refund,2024-07-28
+ORD03929,Not Needed Anymore,Refund,2024-01-26
+ORD00884,Defective Product,Return,2024-05-01
+ORD06153,Not Needed Anymore,Refund,2024-12-30
+ORD02693,,Return,2024-08-24
+ORD07313,Wrong Item Delivered,Refund,2024-09-08
+ORD04422,Wrong Item Delivered,Refund,2024-07-22
+ORD03133,Wrong Item Delivered,Refund,2024-08-06
+ORD00464,Defective Product,Refund,2024-01-26
+ORD09276,Quality Issue,Refund,2024-04-17
+ORD06026,Defective Product,Refund,2024-10-09
+ORD08394,Not Needed Anymore,Refund,2024-05-21
+ORD09056,Defective Product,Return,2024-09-25
+ORD06749,,Refund,2024-12-19
+ORD00339,Wrong Item Delivered,Refund,2024-05-28
+ORD09275,Defective Product,Refund,2024-10-06
+ORD05353,Defective Product,Refund,2024-03-23
+ORD01148,Defective Product,Return,2025-01-03
+ORD05848,Defective Product,Refund,2024-04-02
+ORD09904,Not Needed Anymore,Refund,2024-04-30
+ORD04630,Quality Issue,Return,2024-03-20
+ORD04123,Not Needed Anymore,Refund,2024-05-05
+ORD09101,Defective Product,Return,2024-05-22
+ORD06472,Wrong Item Delivered,Refund,2024-09-04
+ORD04743,Wrong Item Delivered,Refund,2024-04-11
+ORD04377,Wrong Item Delivered,Return,2024-01-18
+ORD08595,Wrong Item Delivered,Refund,2024-11-24
+ORD08280,Defective Product,Return,2024-09-18
+ORD06738,Quality Issue,Refund,2024-01-26
+ORD09774,Quality Issue,Return,2024-03-22
+ORD01876,Wrong Item Delivered,Return,2024-11-28
+ORD04886,Defective Product,Return,2024-07-21
+ORD01663,Wrong Item Delivered,Return,2024-01-26
+ORD04904,Wrong Item Delivered,Refund,2024-04-25
+ORD01942,Not Needed Anymore,Refund,2024-09-08
+ORD06478,Not Needed Anymore,Refund,2024-07-26
+ORD05463,Quality Issue,Refund,2024-07-18
+ORD03796,Defective Product,Refund,2024-10-17
+ORD07800,Not Needed Anymore,Return,2024-07-07
+ORD04644,Defective Product,Return,2024-09-16
+ORD08283,Wrong Item Delivered,Refund,2024-11-10
+ORD04766,Not Needed Anymore,Refund,2024-05-27
+ORD09086,Wrong Item Delivered,Return,2024-09-28
+ORD06884,Wrong Item Delivered,Refund,2024-08-07
+ORD02827,Quality Issue,Return,2024-11-28
+ORD05526,Defective Product,Return,2024-12-06
+ORD00306,Quality Issue,Refund,2024-12-09
+ORD03843,Wrong Item Delivered,Return,2024-10-26
+ORD09386,Defective Product,Refund,2024-12-17
+ORD06755,Quality Issue,Refund,2024-12-16
+ORD03203,Not Needed Anymore,Refund,2024-06-29
+ORD06898,Defective Product,Refund,2024-01-14
+ORD06811,Quality Issue,Return,2024-12-24
+ORD02468,Not Needed Anymore,Refund,2024-04-30
+ORD06530,Wrong Item Delivered,Return,2024-12-19
+ORD02026,Wrong Item Delivered,Refund,2024-11-07
+ORD09613,Defective Product,Refund,2024-08-24
+ORD08201,Defective Product,Return,2024-06-14
+ORD09542,Quality Issue,Return,2024-01-18
+ORD07123,Quality Issue,Return,2024-02-22
+ORD08228,Quality Issue,Refund,2024-03-21
+ORD04917,Wrong Item Delivered,Return,2024-01-15
+ORD03711,Quality Issue,Return,2024-09-14
+ORD09114,Quality Issue,Return,2024-04-17
+ORD07635,Wrong Item Delivered,Refund,2024-10-06
+ORD02060,Wrong Item Delivered,Return,2024-05-26
+ORD09983,Wrong Item Delivered,Return,2024-09-06
+ORD07838,Wrong Item Delivered,Return,2024-08-23
+ORD02894,Not Needed Anymore,Return,2024-08-16
+ORD04467,Defective Product,Refund,2024-12-24
+ORD04360,Defective Product,Return,2024-11-02
+ORD07537,Not Needed Anymore,Refund,2024-04-13
+ORD02303,Wrong Item Delivered,Return,2024-03-16
+ORD06560,,Return,2024-04-14
+ORD01245,Not Needed Anymore,Return,2024-01-20
+ORD06170,Wrong Item Delivered,Return,2024-05-23
+ORD01354,Wrong Item Delivered,Return,2024-03-19
+ORD01040,Wrong Item Delivered,Refund,2024-03-15
+ORD06017,Quality Issue,Return,2024-03-03
+ORD06170,Defective Product,Refund,2024-05-28
+ORD01228,Wrong Item Delivered,Refund,2024-12-07
+ORD01567,Defective Product,Return,2024-04-05
+ORD09553,Defective Product,Refund,2024-05-14
+ORD02905,Wrong Item Delivered,Refund,2024-03-08
+ORD01496,Quality Issue,Refund,2024-06-20
+ORD00307,Wrong Item Delivered,Return,2025-01-04
+ORD09319,Defective Product,Return,2024-06-04
+ORD04324,Defective Product,Refund,2024-11-16
+ORD04736,Wrong Item Delivered,Return,2024-08-31
+ORD09589,Wrong Item Delivered,Return,2024-01-27
+ORD07476,Wrong Item Delivered,Refund,2024-01-26
+ORD06638,Defective Product,Return,2024-04-10
+ORD06668,Not Needed Anymore,Return,2024-09-15
+ORD08318,Quality Issue,Refund,2024-02-29
+ORD01082,Wrong Item Delivered,Refund,2024-06-05
+ORD00263,Not Needed Anymore,Refund,2024-12-31
+ORD08973,Not Needed Anymore,Refund,2024-09-24
+ORD05391,Not Needed Anymore,Refund,2024-10-17
+ORD02500,Wrong Item Delivered,Refund,2024-05-06
+ORD04838,Quality Issue,Refund,2024-01-10
+ORD06201,Wrong Item Delivered,Refund,2024-11-24
+ORD04695,Not Needed Anymore,Return,2024-08-28
+ORD04412,Wrong Item Delivered,Return,2024-03-30
+ORD07936,Not Needed Anymore,Return,2024-02-28
+ORD05427,Not Needed Anymore,Refund,2024-05-03
+ORD07575,Quality Issue,Return,2024-01-27
+ORD08106,Quality Issue,Return,2024-08-15
+ORD08801,Quality Issue,Refund,2024-08-08
+ORD07059,Wrong Item Delivered,Refund,2024-08-16
+ORD03396,Wrong Item Delivered,Refund,2024-06-27
+ORD08536,Not Needed Anymore,Return,2024-04-07
+ORD03924,Wrong Item Delivered,Return,2024-06-11
+ORD04940,Not Needed Anymore,Return,2024-04-13
+ORD07911,Quality Issue,Return,2024-05-01
+ORD08701,Quality Issue,Refund,2024-01-18
+ORD07353,Defective Product,Return,2024-10-06
+ORD03461,Not Needed Anymore,Return,2024-06-03
+ORD01544,Defective Product,Refund,2024-06-11
+ORD05208,Wrong Item Delivered,Return,2024-01-16
+ORD06873,Quality Issue,Refund,2024-11-30
+ORD07242,Wrong Item Delivered,Return,2024-06-05
+ORD08927,Not Needed Anymore,Return,2024-06-14
+ORD09671,Wrong Item Delivered,Refund,2024-06-11
+ORD03867,Wrong Item Delivered,Refund,2024-11-29
+ORD03585,Wrong Item Delivered,Return,2024-09-05
+ORD06002,Defective Product,Return,2024-08-01
+ORD00064,Wrong Item Delivered,Refund,2024-06-10
+ORD04034,Not Needed Anymore,Return,2024-10-10
+ORD09123,Quality Issue,Refund,2024-04-02
+ORD05731,Wrong Item Delivered,Return,2024-06-29
+ORD01418,Not Needed Anymore,Return,2024-01-10
+ORD09972,Defective Product,Return,2024-02-01
+ORD04166,Defective Product,Return,2024-08-10
+ORD06234,Wrong Item Delivered,Refund,2024-06-10
+ORD06160,Defective Product,Return,2024-10-18
+ORD01830,Not Needed Anymore,Return,2024-11-15
+ORD03695,Wrong Item Delivered,Refund,2024-11-22
+ORD00083,Quality Issue,Refund,2024-07-31
+ORD09134,Not Needed Anymore,Refund,2024-03-06
+ORD06347,Not Needed Anymore,Refund,2024-04-26
+ORD01591,Wrong Item Delivered,Refund,2024-06-15
+ORD08589,Quality Issue,Refund,2024-09-24
+ORD06901,Not Needed Anymore,Return,2024-03-23
+ORD09552,Wrong Item Delivered,Return,2024-04-22
+ORD08793,Defective Product,Refund,2024-11-15
+ORD09063,Defective Product,Return,2024-04-15
+ORD04555,Wrong Item Delivered,Return,2024-09-12
+ORD05160,Quality Issue,Refund,2024-03-12
+ORD04449,Quality Issue,Return,2024-08-09
+ORD05335,Wrong Item Delivered,Return,2024-10-11
+ORD05788,Not Needed Anymore,Refund,2024-06-16
+ORD05910,Not Needed Anymore,Refund,2024-04-30
+ORD00747,Defective Product,Return,2024-07-07
+ORD05678,Wrong Item Delivered,Refund,2024-10-26
+ORD03246,,Return,2024-12-20
+ORD05023,Defective Product,Return,2024-12-29
+ORD06809,Not Needed Anymore,Return,2024-09-14
+ORD01013,Defective Product,Return,2024-01-25
+ORD02682,Defective Product,Refund,2024-06-21
+ORD08274,Defective Product,Refund,2024-05-04
+ORD04196,Defective Product,Return,2024-10-28
+ORD06214,Defective Product,Return,2024-02-17
+ORD02215,Quality Issue,Return,2024-05-15
+ORD04392,Quality Issue,Refund,2024-12-04
+ORD09287,Wrong Item Delivered,Refund,2024-09-20
+ORD03303,Defective Product,Refund,2024-02-13
+ORD06845,Quality Issue,Refund,2024-11-02
+ORD00644,Defective Product,Return,2024-04-02
+ORD00344,Quality Issue,Return,2024-10-12
+ORD09957,Defective Product,Return,2024-03-27
+ORD04577,Not Needed Anymore,Return,2024-03-07
+ORD06963,Quality Issue,Return,2025-01-05
+ORD02186,Quality Issue,Refund,2024-09-02
+ORD08898,Defective Product,Return,2024-05-09
+ORD07679,Wrong Item Delivered,Return,2024-05-03
+ORD03835,Wrong Item Delivered,Refund,2024-10-20
+ORD09427,Not Needed Anymore,Return,2024-08-08
+ORD06334,Wrong Item Delivered,Return,2024-04-01
+ORD07081,Not Needed Anymore,Refund,2025-01-06
+ORD02154,Wrong Item Delivered,Refund,2024-04-04
+ORD04601,Quality Issue,Refund,2024-12-21
+ORD01418,Quality Issue,Return,2024-01-09
+ORD03584,Defective Product,Return,2024-08-18
+ORD01559,Defective Product,Return,2024-12-28
+ORD05236,Not Needed Anymore,Refund,2024-04-12
+ORD06633,Defective Product,Return,2024-05-09
+ORD04368,Defective Product,Return,2024-04-13
+ORD09856,Defective Product,Return,2024-10-29
+ORD05364,Wrong Item Delivered,Refund,2024-09-07
+ORD00720,Not Needed Anymore,Return,2024-08-29
+ORD02781,Defective Product,Return,2024-09-30
+ORD08253,Quality Issue,Refund,2024-03-27
+ORD02396,Wrong Item Delivered,Refund,2024-01-20
+ORD08662,Not Needed Anymore,Refund,2024-05-11
+ORD02276,Quality Issue,Return,2024-09-25
+ORD08830,Quality Issue,Return,2024-03-23
+ORD00395,Quality Issue,Refund,2024-08-04
+ORD01915,Wrong Item Delivered,Return,2024-04-01
+ORD08975,Wrong Item Delivered,Refund,2024-06-23
+ORD06988,Wrong Item Delivered,Refund,2024-03-19
+ORD03770,Not Needed Anymore,Return,2024-04-05
+ORD01954,Defective Product,Return,2024-06-13
+ORD06948,Quality Issue,Refund,2024-05-18
+ORD05765,Wrong Item Delivered,Return,2024-12-01
+ORD07361,Quality Issue,Return,2024-02-05
+ORD06022,Not Needed Anymore,Refund,2024-09-08
+ORD01232,Quality Issue,Refund,2024-11-14
+ORD07744,Defective Product,Refund,2024-06-26
+ORD03291,Quality Issue,Refund,2024-03-11
+ORD04454,Quality Issue,Return,2024-10-19
+ORD02558,Not Needed Anymore,Return,2024-05-22
+ORD05189,Defective Product,Return,2024-08-23
+ORD06710,Not Needed Anymore,Refund,2024-09-25
+ORD04722,Quality Issue,Refund,2024-04-10
+ORD00295,Defective Product,Refund,2024-04-26
+ORD00798,Wrong Item Delivered,Refund,2024-08-06
+ORD08716,Quality Issue,Refund,2024-02-19
+ORD07614,Wrong Item Delivered,Refund,2024-03-26
+ORD08832,Wrong Item Delivered,Return,2024-12-29
+ORD09337,Not Needed Anymore,Refund,2024-11-24
+ORD01273,Quality Issue,Return,2024-06-07
+ORD07448,Quality Issue,Refund,2024-05-17
+ORD09632,Defective Product,Return,2024-07-12
+ORD08265,Defective Product,Return,2024-12-03
+ORD07245,Quality Issue,Return,2024-05-12
+ORD03608,Defective Product,Return,2024-07-26
+ORD09891,Defective Product,Refund,2024-07-26
+ORD02356,Wrong Item Delivered,Refund,2024-12-11
+ORD02298,Wrong Item Delivered,Refund,2024-08-19
+ORD02753,Not Needed Anymore,Refund,2024-06-21
+ORD09827,Quality Issue,Refund,2024-05-16
+ORD09520,Wrong Item Delivered,Return,2024-11-21
+ORD06800,Defective Product,Refund,2024-08-13
+ORD01947,Defective Product,Return,2024-12-08
+ORD05882,Quality Issue,Refund,2024-05-17
+ORD00742,Quality Issue,Return,2024-12-30
+ORD06020,Quality Issue,Refund,2024-12-29
+ORD01932,Wrong Item Delivered,Return,2024-05-01
+ORD09360,Not Needed Anymore,Return,2024-11-22
+ORD09513,Quality Issue,Refund,2024-09-04
+ORD04594,Quality Issue,Refund,2024-08-05
+ORD07905,Quality Issue,Return,2024-09-10
+ORD06929,Quality Issue,Refund,2024-05-22
+ORD02543,Defective Product,Return,2024-05-23
+ORD04588,Not Needed Anymore,Refund,2024-12-09
+ORD05175,Wrong Item Delivered,Refund,2024-07-25
+ORD09828,Wrong Item Delivered,Refund,2024-09-16
+ORD04866,Not Needed Anymore,Refund,2024-05-12
+ORD03125,Not Needed Anymore,Return,2024-07-19
+ORD09519,Quality Issue,Return,2024-06-18
+ORD09546,Quality Issue,Refund,2024-12-19
+ORD07174,Wrong Item Delivered,Refund,2024-10-26
+ORD01361,Not Needed Anymore,Refund,2024-02-23
+ORD04858,Not Needed Anymore,Refund,2024-09-13
+ORD05037,Wrong Item Delivered,Refund,2024-04-28
+ORD05950,Wrong Item Delivered,Refund,2024-10-12
+ORD00817,Quality Issue,Return,2024-04-27
+ORD03890,Defective Product,Return,2024-04-07
+ORD00379,Quality Issue,Return,2024-08-01
+ORD08448,Wrong Item Delivered,Return,2024-01-30
+ORD09549,Not Needed Anymore,Refund,2024-06-02
+ORD08634,Wrong Item Delivered,Return,2024-04-09
+ORD02039,Quality Issue,Refund,2024-11-19
+ORD01148,Wrong Item Delivered,Return,2025-01-03
+ORD07793,Quality Issue,Refund,2024-10-20
+ORD05036,Quality Issue,Return,2024-04-21
+ORD09274,Quality Issue,Return,2024-12-07
+ORD02352,Quality Issue,Return,2025-01-03
+ORD07565,Not Needed Anymore,Return,2024-05-17
+ORD06084,Quality Issue,Refund,2024-11-17
+ORD09697,Not Needed Anymore,Refund,2024-07-21
+ORD05253,Wrong Item Delivered,Refund,2024-05-24
+ORD04072,Wrong Item Delivered,Refund,2024-03-23
+ORD00660,Quality Issue,Return,2024-11-03
+ORD07730,Not Needed Anymore,Return,2024-02-27
+ORD03762,Quality Issue,Return,2024-02-10
+ORD00336,Defective Product,Refund,2024-04-10
+ORD00197,Quality Issue,Refund,2024-09-28
+ORD01621,Not Needed Anymore,Return,2024-03-22
+ORD07358,Not Needed Anymore,Refund,2024-07-13
+ORD00756,Defective Product,Refund,2024-02-02
+ORD03906,Defective Product,Return,2024-07-15
+ORD05086,Quality Issue,Return,2024-09-05
+ORD04876,Defective Product,Refund,2024-11-29
+ORD03178,Defective Product,Refund,2024-02-02
+ORD00811,Not Needed Anymore,Refund,2024-05-06
+ORD00920,Defective Product,Return,2024-05-02
+ORD08793,Quality Issue,Return,2024-11-15
+ORD00045,Quality Issue,Return,2024-08-05
+ORD00916,Wrong Item Delivered,Refund,2024-12-13
+ORD00766,Defective Product,Refund,2024-03-05
+ORD04487,Quality Issue,Return,2024-05-09
+ORD00765,Quality Issue,Refund,2024-10-30
+ORD04272,Defective Product,Return,2024-03-26
+ORD04862,Not Needed Anymore,Refund,2024-03-31
+ORD08851,Quality Issue,Return,2024-06-22
+ORD01368,Wrong Item Delivered,Return,2024-07-18
+ORD00762,Quality Issue,Refund,2024-05-25
+ORD01991,Quality Issue,Refund,2024-01-30
+ORD06711,Wrong Item Delivered,Refund,2024-12-29
+ORD03553,Wrong Item Delivered,Refund,2024-08-08
+ORD07341,Quality Issue,Return,2024-12-05
+ORD06867,Quality Issue,Return,2024-08-22
+ORD07219,Quality Issue,Refund,2024-12-08
+ORD01355,Not Needed Anymore,Return,2024-12-05
+ORD02767,Not Needed Anymore,Return,2024-08-07
+ORD02795,Not Needed Anymore,Refund,2024-07-17
+ORD03727,Not Needed Anymore,Return,2024-07-11
+ORD02326,Quality Issue,Refund,2024-11-07
+ORD07214,Not Needed Anymore,Refund,2024-05-07
+ORD04162,Not Needed Anymore,Return,2024-10-15
+ORD06420,Not Needed Anymore,Refund,2024-08-24
+ORD05061,Defective Product,Return,2025-01-05
+ORD08788,Defective Product,Refund,2024-06-24
+ORD02531,Wrong Item Delivered,Refund,2024-11-21
+ORD04263,Quality Issue,Refund,2024-11-11
+ORD05687,Defective Product,Refund,2024-08-12
+ORD08062,Not Needed Anymore,Refund,2024-08-06
+ORD06369,Wrong Item Delivered,Return,2024-11-01
+ORD08613,Quality Issue,Return,2024-01-31
+ORD09352,Wrong Item Delivered,Return,2024-02-07
+ORD01351,Quality Issue,Return,2025-01-03
+ORD07628,Quality Issue,Return,2024-12-06
+ORD00394,Wrong Item Delivered,Refund,2024-04-06
+ORD02396,Defective Product,Refund,2024-01-21
+ORD08211,Defective Product,Refund,2025-01-03
+ORD06112,Defective Product,Refund,2024-11-01
+ORD06334,Not Needed Anymore,Return,2024-03-28
+ORD02478,Wrong Item Delivered,Return,2024-06-27
+ORD05499,Defective Product,Return,2024-03-03
+ORD06888,Defective Product,Refund,2024-03-08
+ORD03671,Quality Issue,Return,2024-01-29
+ORD07680,Quality Issue,Refund,2024-01-24
+ORD05578,Quality Issue,Refund,2024-01-24
+ORD00921,Defective Product,Return,2024-01-28
+ORD08585,Defective Product,Refund,2024-07-07
+ORD09480,Defective Product,Return,2024-10-07
+ORD01550,Quality Issue,Return,2024-07-26
+ORD09648,Not Needed Anymore,Return,2024-07-07
+ORD09134,Defective Product,Return,2024-03-09
+ORD09775,Quality Issue,Refund,2024-01-14
+ORD03205,Quality Issue,Refund,2024-05-18
+ORD01928,Defective Product,Refund,2024-11-18
+ORD08303,Defective Product,Refund,2024-11-15
+ORD09101,Defective Product,Return,2024-05-24
+ORD08842,Quality Issue,Refund,2024-06-10
+ORD09036,Defective Product,Return,2024-04-13
+ORD03868,Wrong Item Delivered,Refund,2024-12-19
+ORD05568,Wrong Item Delivered,Return,2024-07-14
+ORD07334,Wrong Item Delivered,Return,2024-04-24
+ORD06370,Wrong Item Delivered,Refund,2024-07-06
+ORD07143,Not Needed Anymore,Refund,2024-05-25
+ORD02177,Wrong Item Delivered,Return,2024-11-08
+ORD05270,Wrong Item Delivered,Refund,2024-11-23
+ORD07537,Defective Product,Refund,2024-04-17
+ORD05890,Wrong Item Delivered,Refund,2024-10-09
+ORD05361,Wrong Item Delivered,Return,2024-06-17
+ORD00981,Not Needed Anymore,Refund,2024-04-14
+ORD09707,Defective Product,Return,2024-06-26
+ORD03020,Wrong Item Delivered,Return,2024-05-26
+ORD06806,Wrong Item Delivered,Return,2024-11-01
+ORD08080,Quality Issue,Refund,2024-12-18
+ORD08203,Quality Issue,Return,2024-04-28
+ORD03385,Wrong Item Delivered,Refund,2024-10-06
+ORD09902,Defective Product,Refund,2024-03-16
+ORD00745,Quality Issue,Return,2024-06-08
+ORD03423,Not Needed Anymore,Return,2024-07-14
+ORD08281,Wrong Item Delivered,Refund,2024-04-17
+ORD01228,Not Needed Anymore,Return,2024-12-02
+ORD02952,Quality Issue,Return,2024-05-26
+ORD07614,Not Needed Anymore,Refund,2024-03-30
+ORD01211,Defective Product,Refund,2024-04-20
+ORD06769,,Return,2024-11-26
+ORD01482,Wrong Item Delivered,Refund,2024-11-04
+ORD02309,Wrong Item Delivered,Return,2024-06-17
+ORD03080,Defective Product,Refund,2024-09-08
+ORD04077,Quality Issue,Return,2024-04-17
+ORD08734,Defective Product,Refund,2024-03-13
+ORD01438,Defective Product,Refund,2024-09-11
+ORD02387,Wrong Item Delivered,Return,2024-11-29
+ORD09708,Wrong Item Delivered,Return,2024-06-26
+ORD00083,Quality Issue,Refund,2024-08-03
+ORD09257,Quality Issue,Return,2024-01-28
+ORD09505,Wrong Item Delivered,Refund,2024-09-09
+ORD09391,,Refund,2024-08-20
+ORD00732,Quality Issue,Return,2024-04-08
+ORD06749,Not Needed Anymore,Return,2024-12-12
+ORD05202,Wrong Item Delivered,Refund,2024-01-14
+ORD08980,Not Needed Anymore,Refund,2024-05-16
+ORD02515,Defective Product,Return,2024-12-21
+ORD09069,Not Needed Anymore,Return,2024-03-02
+ORD05161,Defective Product,Return,2024-07-21
+ORD05934,Quality Issue,Refund,2024-12-12
+ORD07956,Wrong Item Delivered,Return,2024-05-19
+ORD09297,Not Needed Anymore,Refund,2024-08-27
+ORD03948,Not Needed Anymore,Return,2024-03-22
+ORD03428,Defective Product,Refund,2024-08-04
+ORD02625,Not Needed Anymore,Return,2024-07-04
+ORD01671,Wrong Item Delivered,Refund,2024-08-29
+ORD03249,Defective Product,Return,2024-08-07
+ORD01870,Not Needed Anymore,Return,2024-08-06
+ORD00716,Not Needed Anymore,Return,2024-10-03
+ORD00777,Quality Issue,Return,2024-10-08
+ORD07575,Defective Product,Refund,2024-01-30
+ORD06442,Quality Issue,Return,2024-10-21
+ORD08552,Defective Product,Refund,2024-09-23
+ORD05537,Not Needed Anymore,Refund,2024-03-08
+ORD02409,Not Needed Anymore,Return,2024-08-04
+ORD09691,Defective Product,Refund,2024-01-28
+ORD00122,Quality Issue,Refund,2024-05-18
+ORD03558,Quality Issue,Return,2024-02-09
+ORD07009,Quality Issue,Refund,2024-12-04
+ORD01819,Not Needed Anymore,Return,2024-10-12
+ORD05496,Defective Product,Refund,2024-12-21
+ORD07621,Quality Issue,Return,2024-08-21
+ORD09908,Wrong Item Delivered,Return,2024-03-27
+ORD00060,Not Needed Anymore,Refund,2024-10-03
+ORD08959,Not Needed Anymore,Refund,2024-05-22
+ORD01484,Quality Issue,Return,2024-04-22
+ORD06417,Wrong Item Delivered,Return,2024-11-24
+ORD09845,Wrong Item Delivered,Refund,2024-04-06
+ORD07817,Wrong Item Delivered,Refund,2024-12-16
+ORD00568,Quality Issue,Refund,2024-03-25
+ORD04822,Quality Issue,Refund,2024-09-30
+ORD01380,Wrong Item Delivered,Refund,2024-08-29
+ORD04941,Not Needed Anymore,Refund,2024-09-05
+ORD09135,Defective Product,Refund,2024-10-12
+ORD03553,Defective Product,Return,2024-08-07
+ORD01213,Not Needed Anymore,Return,2024-04-13
+ORD01841,Quality Issue,Return,2024-07-01
+ORD08800,Not Needed Anymore,Refund,2025-01-11
+ORD00933,Defective Product,Refund,2024-05-10
+ORD07738,Not Needed Anymore,Return,2024-08-29
+ORD00335,Quality Issue,Return,2024-09-27
+ORD09244,Quality Issue,Return,2024-03-26
+ORD07907,Defective Product,Refund,2024-05-16
+ORD07388,Wrong Item Delivered,Refund,2024-06-09
+ORD09351,Wrong Item Delivered,Return,2024-09-25
+ORD05905,Not Needed Anymore,Return,2024-02-08
+ORD03057,Not Needed Anymore,Refund,2024-06-28
+ORD08433,Quality Issue,Refund,2024-09-27
+ORD01619,Defective Product,Return,2024-10-20
+ORD09675,Defective Product,Return,2024-12-25
+ORD04790,Quality Issue,Return,2024-06-02
+ORD01078,Defective Product,Return,2024-07-29
+ORD07069,Not Needed Anymore,Refund,2024-07-13
+ORD05797,Defective Product,Return,2024-12-28
+ORD09795,Defective Product,Return,2024-04-10
+ORD06119,Not Needed Anymore,Return,2024-10-19
+ORD02799,Quality Issue,Return,2024-09-21
+ORD05843,Quality Issue,Refund,2024-02-22
+ORD06711,Not Needed Anymore,Refund,2024-12-27
+ORD06023,Quality Issue,Return,2024-04-28
+ORD08189,Wrong Item Delivered,Return,2024-12-14
+ORD03866,Quality Issue,Return,2024-05-11
+ORD00554,Not Needed Anymore,Return,2024-10-25
+ORD09244,Not Needed Anymore,Refund,2024-03-27
+ORD08249,Wrong Item Delivered,Return,2024-08-31
+ORD05315,Not Needed Anymore,Refund,2024-12-23
+ORD05678,Wrong Item Delivered,Refund,2024-10-20
+ORD04796,Not Needed Anymore,Return,2024-10-19
+ORD05197,Wrong Item Delivered,Return,2024-10-19
+ORD03028,Quality Issue,Refund,2024-02-02
+ORD05397,Not Needed Anymore,Refund,2024-09-11
+ORD02456,Defective Product,Refund,2024-12-26
+ORD00362,Not Needed Anymore,Refund,2024-03-18
+ORD06182,Defective Product,Refund,2024-07-23
+ORD04001,Not Needed Anymore,Refund,2024-02-13
+ORD04747,Wrong Item Delivered,Return,2024-09-15
+ORD01251,Quality Issue,Refund,2024-07-26
+ORD02736,Defective Product,Return,2024-10-02
+ORD06628,Defective Product,Return,2024-06-08
+ORD08894,Defective Product,Return,2024-02-20
+ORD05120,Defective Product,Return,2024-05-12
+ORD08249,Wrong Item Delivered,Return,2024-09-02
+ORD06475,Wrong Item Delivered,Refund,2024-02-03
+ORD01155,Defective Product,Return,2024-10-29
+ORD01560,Defective Product,Refund,2024-10-02
+ORD06553,Not Needed Anymore,Refund,2024-12-26
+ORD06323,Quality Issue,Return,2024-02-03
+ORD07023,Wrong Item Delivered,Return,2024-02-28
+ORD09387,Quality Issue,Refund,2024-12-13
+ORD07914,Quality Issue,Return,2024-02-10
+ORD07689,Quality Issue,Return,2024-08-30
+ORD03110,Quality Issue,Return,2024-01-12
+ORD03067,Quality Issue,Return,2024-06-15
+ORD00734,Not Needed Anymore,Refund,2024-11-29
+ORD04091,Not Needed Anymore,Return,2024-08-29
+ORD08920,Wrong Item Delivered,Return,2024-08-22
+ORD08168,Wrong Item Delivered,Return,2024-09-13
+ORD06237,Wrong Item Delivered,Return,2024-02-05
+ORD09167,Wrong Item Delivered,Refund,2024-05-20
+ORD01930,Quality Issue,Return,2024-10-02
+ORD02182,Quality Issue,Refund,2024-02-13
+ORD07361,Defective Product,Refund,2024-02-02
+ORD07662,Quality Issue,Refund,2024-06-04
+ORD01766,Not Needed Anymore,Refund,2024-01-19
+ORD05597,Wrong Item Delivered,Refund,2024-12-31
+ORD05713,Wrong Item Delivered,Return,2024-11-13
+ORD05592,Not Needed Anymore,Return,2024-10-09
+ORD01308,Quality Issue,Refund,2024-04-16
+ORD00045,Wrong Item Delivered,Refund,2024-07-28
+ORD05650,Defective Product,Refund,2024-11-27
+ORD07837,Quality Issue,Return,2024-07-04
+ORD00146,Quality Issue,Refund,2024-02-25
+ORD00853,Quality Issue,Return,2024-12-31
+ORD06692,Quality Issue,Return,2024-03-02
+ORD00657,Defective Product,Refund,2024-07-22
+ORD01062,Defective Product,Return,2024-12-29
+ORD04172,Defective Product,Refund,2024-05-06
+ORD07919,Defective Product,Return,2024-02-25
+ORD04972,Wrong Item Delivered,Return,2024-02-12
+ORD04617,Not Needed Anymore,Return,2024-02-15
+ORD04540,Quality Issue,Refund,2024-10-11
+ORD04952,Quality Issue,Refund,2024-01-22
+ORD06003,Quality Issue,Return,2024-10-22
+ORD09382,Defective Product,Return,2024-10-26
+ORD02541,Quality Issue,Return,2024-10-19
+ORD07289,Wrong Item Delivered,Return,2024-03-27
+ORD07168,Quality Issue,Return,2024-11-11
+ORD05811,Defective Product,Refund,2024-07-27
+ORD00648,Quality Issue,Refund,2024-12-17
+ORD05502,Quality Issue,Refund,2024-05-16
+ORD03493,Defective Product,Refund,2024-11-14
+ORD04174,Quality Issue,Return,2024-03-11
+ORD05259,Not Needed Anymore,Return,2024-10-18
+ORD05719,Defective Product,Refund,2024-08-31
+ORD09645,Not Needed Anymore,Return,2024-01-25
+ORD06341,Not Needed Anymore,Refund,2024-07-31
+ORD08676,Defective Product,Return,2024-10-19
+ORD02204,Quality Issue,Return,2024-10-13
+ORD00618,Wrong Item Delivered,Return,2024-04-10
+ORD08976,Not Needed Anymore,Return,2024-01-29
+ORD00031,Defective Product,Return,2024-08-18
+ORD02677,Wrong Item Delivered,Refund,2024-06-05
+ORD07721,Not Needed Anymore,Refund,2024-10-04
+ORD02537,Not Needed Anymore,Return,2024-10-23
+ORD02040,Quality Issue,Return,2024-09-04
+ORD03163,Wrong Item Delivered,Return,2024-06-24
+ORD07552,Quality Issue,Refund,2024-02-19
+ORD06345,Wrong Item Delivered,Refund,2024-12-09
+ORD06760,Defective Product,Return,2024-11-29
+ORD00526,Quality Issue,Refund,2024-11-25
+ORD04068,Wrong Item Delivered,Return,2024-09-17
+ORD00041,Quality Issue,Return,2024-01-12
+ORD01276,Defective Product,Refund,2024-08-13
+ORD03892,Not Needed Anymore,Return,2024-10-21
+ORD01121,Not Needed Anymore,Refund,2024-11-11
+ORD03987,Defective Product,Refund,2024-07-06
+ORD08077,Not Needed Anymore,Return,2024-11-26
+ORD01125,Quality Issue,Refund,2024-12-11
+ORD06671,Quality Issue,Return,2024-11-22
+ORD03476,Defective Product,Return,2024-06-24
+ORD01827,Quality Issue,Refund,2024-04-11
+ORD01945,Quality Issue,Refund,2024-03-12
+ORD03189,Wrong Item Delivered,Return,2024-10-30
+ORD07400,Quality Issue,Return,2024-07-17
+ORD03200,Not Needed Anymore,Return,2024-05-12
+ORD06549,Quality Issue,Refund,2024-03-27
+ORD00532,Defective Product,Refund,2024-02-10
+ORD08894,Defective Product,Return,2024-02-21
+ORD04504,Wrong Item Delivered,Refund,2024-11-04
+ORD07368,Quality Issue,Return,2024-07-18
+ORD07578,Not Needed Anymore,Return,2024-09-25
+ORD07555,Wrong Item Delivered,Refund,2024-04-10
+ORD04407,Defective Product,Refund,2024-10-10
+ORD01679,Wrong Item Delivered,Return,2024-12-13
+ORD01624,Not Needed Anymore,Return,2024-05-24
+ORD01898,Quality Issue,Return,2024-03-29
+ORD06743,Not Needed Anymore,Return,2024-11-08
+ORD08638,Not Needed Anymore,Return,2024-04-26
+ORD06553,Quality Issue,Refund,2024-12-18
+ORD05203,Defective Product,Return,2024-12-28
+ORD06555,Quality Issue,Return,2024-07-10
+ORD02262,Not Needed Anymore,Return,2024-05-31
+ORD04246,Quality Issue,Refund,2024-12-23
+ORD06434,Not Needed Anymore,Return,2024-09-04
+ORD02248,Defective Product,Return,2024-12-18
+ORD04022,Wrong Item Delivered,Return,2024-01-21
+ORD01896,Wrong Item Delivered,Return,2024-10-29
+ORD04924,Not Needed Anymore,Return,2024-10-29
+ORD03555,Not Needed Anymore,Refund,2024-06-10
+ORD04117,Quality Issue,Refund,2024-08-26
+ORD08726,Wrong Item Delivered,Refund,2024-11-19
+ORD00321,Defective Product,Return,2024-04-09
+ORD03127,Quality Issue,Refund,2024-03-13
+ORD05631,Quality Issue,Refund,2024-05-30
+ORD02487,Not Needed Anymore,Return,2025-01-03
+ORD01209,Quality Issue,Return,2024-07-09
+ORD00577,Quality Issue,Refund,2024-03-06
+ORD09682,Defective Product,Refund,2024-04-30
+ORD01262,Defective Product,Refund,2024-07-03
+ORD03579,Quality Issue,Refund,2024-04-13
+ORD08988,Quality Issue,Return,2024-02-01
+ORD03449,Wrong Item Delivered,Refund,2024-09-28
+ORD08062,Not Needed Anymore,Return,2024-08-07
+ORD05125,Wrong Item Delivered,Refund,2024-04-22
+ORD00080,Quality Issue,Refund,2024-11-22
+ORD08257,Quality Issue,Return,2024-04-09
+ORD01671,Not Needed Anymore,Return,2024-08-25
+ORD05124,Not Needed Anymore,Refund,2024-09-13
+ORD07298,Quality Issue,Refund,2024-02-19
+ORD03921,Quality Issue,Refund,2024-06-13
+ORD02532,Not Needed Anymore,Return,2024-04-04
+ORD04713,Quality Issue,Return,2024-02-18
+ORD01830,Quality Issue,Return,2024-11-11
+ORD03420,Defective Product,Return,2024-03-10
+ORD00501,Defective Product,Return,2024-11-05
+ORD03593,Wrong Item Delivered,Return,2024-11-01
+ORD05117,Wrong Item Delivered,Refund,2024-12-31
+ORD04856,Defective Product,Return,2024-08-20
+ORD06077,Defective Product,Return,2024-11-26
+ORD03936,Not Needed Anymore,Return,2024-12-16
+ORD01071,Not Needed Anymore,Refund,2024-12-31
+ORD08005,Wrong Item Delivered,Refund,2024-10-28
+ORD02029,Not Needed Anymore,Refund,2024-10-30
+ORD03528,Defective Product,Return,2024-04-11
+ORD09668,Not Needed Anymore,Return,2024-11-09
+ORD01615,Quality Issue,Refund,2024-07-16
+ORD06344,Wrong Item Delivered,Refund,2024-03-27
+ORD01623,,Return,2024-05-22
+ORD08732,Not Needed Anymore,Refund,2024-01-30
+ORD09654,Quality Issue,Return,2024-07-13
+ORD09674,Wrong Item Delivered,Refund,2024-12-24
+ORD05338,Not Needed Anymore,Return,2024-02-12
+ORD02193,Defective Product,Refund,2024-04-02
+ORD04588,Not Needed Anymore,Refund,2024-12-14
+ORD04694,Wrong Item Delivered,Refund,2024-04-20
+ORD01394,Defective Product,Refund,2024-05-02
+ORD02329,Defective Product,Return,2024-12-11
+ORD06635,Wrong Item Delivered,Refund,2024-05-01
+ORD00366,Wrong Item Delivered,Return,2024-07-03
+ORD03475,Quality Issue,Return,2024-06-16
+ORD05448,Defective Product,Return,2024-03-05
+ORD09975,Wrong Item Delivered,Return,2024-06-30
+ORD00189,Not Needed Anymore,Refund,2024-11-29
+ORD02076,Defective Product,Return,2024-11-08
+ORD08044,Not Needed Anymore,Return,2024-04-23
+ORD04066,Defective Product,Refund,2024-01-15
+ORD02723,Not Needed Anymore,Refund,2024-04-24
+ORD00190,Defective Product,Refund,2024-07-14
+ORD04600,Quality Issue,Refund,2024-01-14
+ORD08309,Wrong Item Delivered,Return,2024-01-23
+ORD06398,Wrong Item Delivered,Refund,2024-11-23
+ORD02136,Defective Product,Return,2024-04-05
+ORD04981,Quality Issue,Return,2024-09-27
+ORD09529,Wrong Item Delivered,Return,2024-12-09
+ORD07033,Quality Issue,Return,2025-01-04
+ORD02430,Wrong Item Delivered,Return,2024-10-17
+ORD05656,Not Needed Anymore,Refund,2024-06-24
+ORD02198,Defective Product,Refund,2024-02-27
+ORD09468,Defective Product,Refund,2024-12-31
+ORD08236,Not Needed Anymore,Return,2024-08-17
+ORD04419,Quality Issue,Refund,2024-12-01
+ORD08969,Quality Issue,Return,2024-11-12
+ORD08877,Wrong Item Delivered,Refund,2024-02-21
+ORD03595,Not Needed Anymore,Refund,2024-08-04
+ORD08975,Not Needed Anymore,Return,2024-06-22
+ORD03111,Quality Issue,Return,2024-09-01
+ORD03004,Not Needed Anymore,Return,2024-07-01
+ORD06400,Quality Issue,Return,2024-06-09
+ORD04195,Quality Issue,Return,2024-09-06
+ORD00564,Defective Product,Return,2024-09-02
+ORD04925,Wrong Item Delivered,Refund,2024-10-03
+ORD07366,Wrong Item Delivered,Return,2024-11-14
+ORD06065,Wrong Item Delivered,Refund,2024-03-02
+ORD08601,Not Needed Anymore,Return,2024-05-13
+ORD04974,Quality Issue,Return,2024-03-28
+ORD03909,Quality Issue,Return,2024-12-28
+ORD03954,Wrong Item Delivered,Return,2024-12-24
+ORD01876,Defective Product,Return,2024-11-23
+ORD09351,Wrong Item Delivered,Refund,2024-09-28
+ORD09627,Not Needed Anymore,Refund,2024-05-03
+ORD05878,Wrong Item Delivered,Refund,2024-04-22
+ORD02338,Quality Issue,Return,2024-11-02
+ORD05155,Wrong Item Delivered,Return,2024-08-28
+ORD08147,Defective Product,Return,2024-02-07
+ORD08698,Not Needed Anymore,Refund,2024-09-24
+ORD00172,Not Needed Anymore,Refund,2024-06-19
+ORD02492,Wrong Item Delivered,Return,2024-03-24
+ORD04494,Quality Issue,Return,2024-08-21
+ORD06400,Defective Product,Refund,2024-06-05
+ORD03337,Wrong Item Delivered,Refund,2024-08-20
+ORD09862,Defective Product,Return,2024-12-18
+ORD02688,Wrong Item Delivered,Return,2024-04-21
+ORD01288,Quality Issue,Return,2024-05-13
+ORD07726,Defective Product,Return,2024-02-03
+ORD08927,Wrong Item Delivered,Return,2024-06-16
+ORD01055,Wrong Item Delivered,Refund,2024-06-12
+ORD00463,Not Needed Anymore,Refund,2024-07-25
+ORD01047,Defective Product,Refund,2024-08-04
+ORD00023,Not Needed Anymore,Return,2024-05-05
+ORD00927,Wrong Item Delivered,Refund,2024-06-01
+ORD03354,Defective Product,Refund,2024-12-31
+ORD03423,Not Needed Anymore,Return,2024-07-13
+ORD01039,Quality Issue,Return,2024-07-19
+ORD04736,Not Needed Anymore,Return,2024-08-28
+ORD06003,,Return,2024-10-21
+ORD05208,Quality Issue,Refund,2024-01-16
+ORD04044,Defective Product,Return,2024-08-14
+ORD06252,Defective Product,Refund,2024-07-22
+ORD04939,Wrong Item Delivered,Return,2024-07-08
+ORD04839,Defective Product,Refund,2024-08-25
+ORD06319,Not Needed Anymore,Return,2024-09-27
+ORD08047,Not Needed Anymore,Return,2024-03-04
+ORD04911,Quality Issue,Return,2024-12-26
+ORD08228,,Refund,2024-03-25
+ORD05644,Not Needed Anymore,Refund,2025-01-05
+ORD04946,Defective Product,Return,2024-12-06
+ORD02489,Quality Issue,Refund,2024-08-03
+ORD06012,Quality Issue,Refund,2024-10-23
+ORD05251,Defective Product,Refund,2024-06-17
+ORD09226,Defective Product,Refund,2024-08-10
+ORD04835,Defective Product,Refund,2024-06-27
+ORD09843,Not Needed Anymore,Refund,2024-06-13
+ORD09143,Wrong Item Delivered,Return,2024-07-11
+ORD02724,Defective Product,Refund,2024-10-08
+ORD00279,Quality Issue,Refund,2024-07-30
+ORD07163,Wrong Item Delivered,Return,2024-05-15
+ORD00049,Defective Product,Return,2024-05-04
+ORD00798,Quality Issue,Return,2024-07-31
+ORD02025,Defective Product,Return,2024-07-01
+ORD05195,Defective Product,Refund,2024-01-20
+ORD04233,Quality Issue,Refund,2024-03-29
+ORD08679,Wrong Item Delivered,Refund,2024-10-21
+ORD06423,Defective Product,Refund,2024-09-04
+ORD04805,Defective Product,Refund,2024-09-23
+ORD01909,Not Needed Anymore,Return,2024-01-28
+ORD03557,Defective Product,Refund,2024-08-10
+ORD05477,Quality Issue,Return,2024-08-23
+ORD00447,Quality Issue,Return,2024-05-22
+ORD07542,Quality Issue,Return,2024-09-14
+ORD00402,Wrong Item Delivered,Return,2024-05-08
+ORD06049,Quality Issue,Refund,2024-08-07
+ORD09588,Defective Product,Refund,2024-09-23
+ORD07708,Defective Product,Return,2024-08-01
+ORD00866,Quality Issue,Refund,2024-06-29
+ORD09783,Defective Product,Refund,2024-06-13
+ORD00444,Quality Issue,Return,2024-07-08
+ORD05096,Not Needed Anymore,Refund,2024-09-01
