@@ -22,7 +22,6 @@ The project utilizes multiple datasets:
 - Orders
 - Products
 - Ratings
-- Transactions
 - Delivery Partners
 - Returns & Refunds
 
@@ -89,7 +88,6 @@ Implemented SQL queries for:
 Dataset/
 PowerBI/
 SQL/
-Images/
 README.md
 ```
 
