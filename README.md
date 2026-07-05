@@ -1,4 +1,4 @@
-# Zepto-Retail-Analytics-Dashboard
+# 📊  Zepto-Retail-Analytics-Dashboard
 
 ## Project Overview
 
