@@ -1,96 +1,153 @@
-# 📊  Zepto-Retail-Analytics-Dashboard
+# 📊 Zepto Retail Analytics Dashboard | SQL + Power BI + Business Analytics
 
-## Project Overview
+## 📌 Project Overview
 
-This project analyzes Zepto retail operations using SQL, Power BI, and Excel. The objective was to derive business insights related to customer behavior, product performance, sales trends, coupon effectiveness, and returns/refunds.
+This project presents an end-to-end retail business analysis for a quick-commerce platform using **SQL Server**, **Power BI**, and **Microsoft Excel**.
+
+The objective was to transform raw transactional data into actionable business insights by analyzing customer behavior, revenue performance, operational efficiency, marketing effectiveness, and customer retention.
+
+The project combines interactive dashboards with advanced SQL-based business analyses to support executive-level decision making.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-- SQL
+- Microsoft SQL Server
 - Power BI
 - Microsoft Excel
 
 ---
 
-## Dataset
+## 📂 Dataset
 
-The project utilizes multiple datasets:
+The project utilizes six business datasets:
 
 - Customers
 - Orders
 - Products
-- Ratings
 - Delivery Partners
+- Ratings
 - Returns & Refunds
+- Transactions
 
-Total Records Analyzed: 36,000+
+**Total Records Analyzed:** 36,000+
 
 ---
 
-## Dashboard Modules
+# 📈 Dashboard Modules
 
-### Orders Analysis
+### 📦 Orders Analysis
 - Total Orders
 - Revenue Analysis
-- Average Order Value
-- Coupon Usage Analysis
-- Product Category Performance
+- Average Order Value (AOV)
+- Coupon Usage
+- Monthly Order Trends
+- Category Performance
 
-### Customer Insights
+---
+
+### 👥 Customer Insights
 - Customer Demographics
-- Age Distribution
 - Gender Distribution
-- Customer Spending Patterns
+- Age Distribution
+- Customer Spending Analysis
+- Geographic Distribution
 
-### Product Performance
+---
+
+### 🛒 Product Performance
 - Revenue by Category
 - Profit Analysis
 - Top Performing Products
+- Product-wise Revenue
 
-### Returns & Refunds Analysis
+---
+
+### 🔄 Returns & Refunds Analysis
 - Return Trends
 - Return Reasons
-- Category-wise Return Rate
-- Most Refunded Products
+- Category-wise Returns
+- Most Returned Products
+- Return vs Refund Analysis
 
 ---
 
-## Key Business Insights
+# 💼 Advanced Business Analysis (SQL)
 
-- Identified top-selling products based on quantity sold.
-- Evaluated coupon effectiveness on order volume and revenue.
-- Analyzed customer demographics and spending behavior.
-- Measured product profitability across categories.
-- Investigated return and refund patterns to identify operational issues.
-- Assessed transaction success rates and delivery performance.
+Beyond dashboard reporting, the project includes five executive-level business analyses.
+
+### 1️⃣ Customer Lifetime Value (CLV) Segmentation
+
+- Segmented customers into VIP, High Value, Medium Value, and Low Value groups using lifetime revenue.
+- Measured revenue concentration across customer segments.
+- Identified high-value customer cohorts for loyalty and retention strategies.
 
 ---
 
-## SQL Analysis
+### 2️⃣ Revenue Leakage Due to Returns & Refunds
 
-Implemented SQL queries for:
+- Quantified revenue exposed to returned and refunded orders.
+- Measured revenue leakage across product categories.
+- Identified categories with the highest financial risk.
 
-- Data Cleaning
-- KPI Generation
-- Revenue Analysis
+---
+
+### 3️⃣ Root Cause Analysis of Returns & Refunds
+
+- Ranked return reasons based on financial impact.
+- Identified operational drivers of revenue leakage.
+- Supported quality improvement and fulfillment optimization initiatives.
+
+---
+
+### 4️⃣ Customer Retention & Repeat Purchase Analysis
+
+- Classified customers into One-Time, Repeat, and Loyal segments.
+- Measured repeat purchase behavior.
+- Identified customer retention opportunities to improve long-term revenue growth.
+
+---
+
+### 5️⃣ Coupon Effectiveness & Customer Purchase Behavior
+
+- Compared coupon and non-coupon customer behavior.
+- Evaluated revenue contribution and average order value.
+- Assessed promotional campaign effectiveness for marketing optimization.
+
+---
+
+# 📊 SQL Concepts Used
+
+- Common Table Expressions (CTEs)
+- CASE Statements
+- Aggregate Functions
+- Window Functions
+- NTILE()
+- DENSE_RANK()
+- Percentage Contribution Analysis
+- Revenue Leakage Analysis
 - Customer Segmentation
-- Product Performance Analysis
-- Returns & Refund Analysis
-- Transaction Analysis
+- Conditional Aggregation
+- Advanced JOIN Operations
 
 ---
 
-## Repository Structure
+# 📌 Key Business Outcomes
 
-```text
-Dataset/
-PowerBI/
-SQL/
-README.md
-```
+- Identified that **VIP customers generated over 52% of total revenue**, supporting targeted loyalty initiatives.
+- Quantified **10.3% revenue leakage** due to returns and refunds.
+- Identified **Quality Issues** as the largest contributor to return-related revenue impact.
+- Revealed that **58% of customers were one-time buyers**, highlighting customer retention opportunities.
+- Evaluated coupon effectiveness and found that **71% of revenue was generated without promotional discounts**, supporting more targeted marketing strategies.
 
-## Author
+---
 
-Arpit Khandelwal
+# 🎯 Business Value
+
+This project demonstrates how SQL and Power BI can be used together to transform transactional retail data into strategic business recommendations across customer analytics, financial performance, operational efficiency, marketing effectiveness, and customer retention.
+
+---
+
+## 👨‍💻 Author
+
+**Arpit Khandelwal**
