@@ -1,0 +1,100 @@
+
+/*====================================================
+                    BUSINESS INSIGHTS
+====================================================*/
+
+
+/* 1. Analyze the number of orders placed each month */
+
+SELECT
+    CONVERT(char(7), Order_Date, 120) AS [Month],
+    COUNT(*) AS Total_Orders
+FROM Orders
+GROUP BY CONVERT(char(7), Order_Date, 120)
+ORDER BY [Month];
+
+
+/* 2. How frequently customers place orders */
+
+SELECT
+    C_ID,
+    COUNT(*) AS Total_Orders
+FROM Orders
+GROUP BY C_ID
+ORDER BY Total_Orders DESC;
+
+
+/* 3. Identify the top-selling products */
+
+SELECT
+    Orders.P_ID,
+    Products.Product_Name,
+    SUM(Orders.Qty) AS Total_Quantity_Sold
+FROM Orders
+INNER JOIN Products
+ON Orders.P_ID = Products.P_ID
+GROUP BY
+    Orders.P_ID,
+    Products.Product_Name
+ORDER BY Total_Quantity_Sold DESC;
+
+
+/* 4. Calculate the average order value */
+
+SELECT
+    AVG(CAST(Products.Final_Price AS FLOAT)) AS Average_Order_Value
+FROM Orders
+INNER JOIN Products
+ON Orders.P_ID = Products.P_ID;
+
+
+/* 5. Determine the most common reasons for product returns/refunds */
+
+SELECT
+    Reason,
+    COUNT(*) AS Total_Returns_Refunds
+FROM Returns_Refunds
+GROUP BY Reason
+ORDER BY Total_Returns_Refunds DESC;
+
+
+/* 6. Analyze the impact of coupon usage on order volume and revenue */
+
+SELECT
+    Coupon,
+    COUNT(*) AS Total_Orders,
+    SUM(Products.Final_Price) AS Total_Revenue
+FROM Orders
+INNER JOIN Products
+ON Orders.P_ID = Products.P_ID
+GROUP BY Coupon
+ORDER BY Total_Revenue DESC;
+
+
+/* 7. Explore customer demographics */
+
+SELECT
+    Gender,
+    State,
+    COUNT(*) AS Total_Customers,
+    AVG(CAST(Age AS FLOAT)) AS Average_Age
+FROM Customers
+GROUP BY
+    Gender,
+    State
+ORDER BY Total_Customers DESC;
+
+
+/* 8. Evaluate the distribution of transaction modes and their success rates */
+
+SELECT
+    Transaction_Mode,
+    COUNT(*) AS Total_Transactions,
+    CAST(
+        100.0 * SUM(CASE WHEN Tran_Status = 'Success' THEN 1 ELSE 0 END)
+        / COUNT(*)
+        AS DECIMAL(5,2)
+    ) AS Success_Rate
+FROM Transactions
+GROUP BY Transaction_Mode
+ORDER BY Total_Transactions DESC;
