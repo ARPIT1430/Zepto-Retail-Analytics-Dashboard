@@ -338,3 +338,218 @@ ORDER BY Revenue_Impact DESC;
 
 
 
+
+/*=================================================================================================================
+BUSINESS ANALYSIS 4: CUSTOMER RETENTION & REPEAT PURCHASE ANALYSIS
+
+Business Question:
+How effectively does the business retain customers, and what proportion of customers make repeat purchases?
+
+Objective:
+- Measure customer retention through purchase frequency analysis.
+- Classify customers into one-time, repeat, and loyal customer segments.
+- Evaluate repeat purchase behavior across the customer base.
+- Support customer retention, loyalty, and long-term growth strategies.
+=================================================================================================================*/
+
+
+-- =================================================================================================
+-- Query 1: Customer Purchase Frequency Analysis
+-- Classifies customers based on the number of orders placed to identify
+-- one-time, repeat, and loyal customers.
+-- =================================================================================================
+
+WITH CustomerOrders AS
+(
+    SELECT
+        C_ID,
+        COUNT(Or_ID) AS Total_Orders
+    FROM Orders
+    GROUP BY C_ID
+)
+
+SELECT
+
+    C_ID,
+
+    Total_Orders,
+
+    CASE
+        WHEN Total_Orders = 1 THEN 'One-Time Customer'
+        WHEN Total_Orders BETWEEN 2 AND 4 THEN 'Repeat Customer'
+        ELSE 'Loyal Customer'
+    END AS Customer_Type
+
+FROM CustomerOrders
+
+ORDER BY Total_Orders DESC;
+
+
+
+-- =================================================================================================
+-- Query 2: Customer Retention Executive Summary
+-- Summarizes customer distribution by purchase frequency to evaluate
+-- customer retention and identify opportunities for loyalty initiatives.
+-- =================================================================================================
+
+WITH CustomerOrders AS
+(
+    SELECT
+        C_ID,
+        COUNT(Or_ID) AS Total_Orders
+    FROM Orders
+    GROUP BY C_ID
+)
+
+SELECT
+
+    CASE
+        WHEN Total_Orders = 1 THEN 'One-Time Customer'
+        WHEN Total_Orders BETWEEN 2 AND 4 THEN 'Repeat Customer'
+        ELSE 'Loyal Customer'
+    END AS Customer_Type,
+
+    COUNT(*) AS Customers,
+
+    CAST
+    (
+        100.0 * COUNT(*)
+        / SUM(COUNT(*)) OVER()
+        AS DECIMAL(5,2)
+    ) AS Customer_Percentage,
+
+    AVG(Total_Orders) AS Avg_Orders_Per_Customer
+
+FROM CustomerOrders
+
+GROUP BY
+CASE
+    WHEN Total_Orders = 1 THEN 'One-Time Customer'
+    WHEN Total_Orders BETWEEN 2 AND 4 THEN 'Repeat Customer'
+    ELSE 'Loyal Customer'
+END
+
+ORDER BY Avg_Orders_Per_Customer DESC;
+
+
+
+
+
+/*=================================================================================================================
+BUSINESS ANALYSIS 5: COUPON EFFECTIVENESS & CUSTOMER PURCHASE BEHAVIOR
+
+Business Question:
+Do coupon campaigns improve customer purchasing behavior and revenue, or are they simply reducing selling prices without increasing customer value?
+
+Objective:
+- Compare customer purchasing behavior between coupon and non-coupon orders.
+- Measure revenue contribution and average order value for each customer group.
+- Evaluate the effectiveness of promotional campaigns.
+- Support data-driven marketing and pricing strategies.
+=================================================================================================================*/
+
+
+-- =================================================================================================
+-- Query 1: Coupon Performance Analysis
+-- Compares revenue, customer reach, and average order value between
+-- coupon and non-coupon purchases.
+-- =================================================================================================
+
+WITH CouponAnalysis AS
+(
+    SELECT
+
+        CASE
+            WHEN Coupon = 'TRUE' THEN 'Coupon Used'
+            ELSE 'No Coupon'
+        END AS Coupon_Status,
+
+        COUNT(Or_ID) AS Orders,
+
+        COUNT(DISTINCT C_ID) AS Customers,
+
+        SUM(o.Qty * p.Final_Price) AS Revenue,
+
+        AVG(o.Qty * p.Final_Price) AS Avg_Order_Value
+
+    FROM Orders o
+
+    INNER JOIN Products p
+        ON o.P_ID = p.P_ID
+
+    GROUP BY
+        CASE
+            WHEN Coupon = 'TRUE' THEN 'Coupon Used'
+            ELSE 'No Coupon'
+        END
+)
+
+SELECT *
+
+FROM CouponAnalysis
+
+ORDER BY Revenue DESC;
+
+
+
+-- =================================================================================================
+-- Query 2: Coupon Campaign Executive Summary
+-- Summarizes coupon performance by comparing order volume, customer reach,
+-- revenue contribution, average order value, and revenue share to evaluate
+-- the effectiveness of promotional campaigns.
+-- =================================================================================================
+
+WITH CouponAnalysis AS
+(
+    SELECT
+
+        CASE
+            WHEN Coupon = 'TRUE' THEN 'Coupon Used'
+            ELSE 'No Coupon'
+        END AS Coupon_Status,
+
+        COUNT(Or_ID) AS Orders,
+
+        COUNT(DISTINCT C_ID) AS Customers,
+
+        SUM(o.Qty * p.Final_Price) AS Revenue,
+
+        AVG(o.Qty * p.Final_Price) AS Avg_Order_Value
+
+    FROM Orders o
+
+    INNER JOIN Products p
+        ON o.P_ID = p.P_ID
+
+    GROUP BY
+        CASE
+            WHEN Coupon = 'TRUE' THEN 'Coupon Used'
+            ELSE 'No Coupon'
+        END
+)
+
+SELECT
+
+    Coupon_Status,
+
+    Orders,
+
+    Customers,
+
+    Revenue,
+
+    CAST(Avg_Order_Value AS DECIMAL(10,2)) AS Avg_Order_Value,
+
+    CAST(
+        100.0 * Revenue
+        / SUM(Revenue) OVER()
+        AS DECIMAL(5,2)
+    ) AS Revenue_Share_Percent
+
+FROM CouponAnalysis
+
+ORDER BY Revenue DESC;
+
+
+
+
