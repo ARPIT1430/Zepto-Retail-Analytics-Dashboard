@@ -1,0 +1,65 @@
+USE ZeptoBusinessAnalysis
+
+select * from customers;
+select * from orders ;
+select * from products;
+select * from delivery;
+select * from ratings;
+select * from returns_refunds;
+
+/*====================================================
+                    KPI GENERATION
+====================================================*/
+
+/*-------------------- Orders KPI --------------------*/
+
+SELECT
+    COUNT(*) AS Total_Orders,
+    SUM(Orders.Qty) AS Total_Quantity_Ordered,
+    AVG(CAST(Products.Final_Price AS FLOAT)) AS Average_Order_Value
+FROM Orders
+INNER JOIN Products
+ON Orders.P_ID = Products.P_ID;
+
+
+/*------------------ Customers KPI -------------------*/
+
+SELECT
+    COUNT(*) AS Total_Customers,
+    SUM(CASE
+            WHEN From_Date >= DATEADD(MONTH, -1, CAST(GETDATE() AS DATE))
+            THEN 1
+            ELSE 0
+        END) AS New_Customers_Last_Month
+FROM Customers;
+
+
+/*------------------- Products KPI -------------------*/
+
+SELECT TOP (5)
+    Products.Product_Name,
+    SUM(Orders.Qty) AS Quantity_Sold
+FROM Orders
+INNER JOIN Products
+ON Orders.P_ID = Products.P_ID
+GROUP BY Products.Product_Name
+ORDER BY Quantity_Sold DESC;
+
+
+/*--------------- Delivery Person KPI ----------------*/
+
+SELECT
+    AVG(CAST(DP_Ratings AS FLOAT)) AS Average_Delivery_Rating
+FROM Delivery;
+
+
+/*-------------------- Ratings KPI -------------------*/
+
+SELECT
+    AVG(CAST(Prod_Rating AS FLOAT)) AS Average_Product_Rating
+FROM Ratings;
+
+SELECT
+    AVG(CAST(Delivery_Service_Rating AS FLOAT)) AS Average_Delivery_Service_Rating
+FROM Ratings;
+
