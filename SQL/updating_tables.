@@ -1,0 +1,87 @@
+USE ZeptoBusinessAnalysis
+
+select * from customers;
+select * from orders ;
+select * from products;
+select * from delivery;
+select * from ratings;
+select * from returns_refunds;
+
+/* ===========================
+   CUSTOMERS
+   =========================== */
+
+UPDATE Customers
+SET
+    C_ID = COALESCE(NULLIF(LTRIM(RTRIM(C_ID)), ''), 'not available'),
+    CName = COALESCE(NULLIF(LTRIM(RTRIM(CName)), ''), 'not available'),
+    Gender = COALESCE(NULLIF(LTRIM(RTRIM(Gender)), ''), 'not available'),
+    State = COALESCE(NULLIF(LTRIM(RTRIM(State)), ''), 'not available'),
+    Address = COALESCE(NULLIF(LTRIM(RTRIM(Address)), ''), 'not available');
+
+
+/* ===========================
+   ORDERS
+   =========================== */
+
+UPDATE Orders
+SET
+    Or_ID = COALESCE(NULLIF(LTRIM(RTRIM(Or_ID)), ''), 'not available'),
+    C_ID = COALESCE(NULLIF(LTRIM(RTRIM(C_ID)), ''), 'not available'),
+    P_ID = COALESCE(NULLIF(LTRIM(RTRIM(P_ID)), ''), 'not available'),
+    DP_ID = COALESCE(NULLIF(LTRIM(RTRIM(DP_ID)), ''), 'not available');
+
+
+/* ===========================
+   PRODUCTS
+   =========================== */
+
+UPDATE Products
+SET
+    P_ID = COALESCE(NULLIF(LTRIM(RTRIM(P_ID)), ''), 'not available'),
+    Product_Name = COALESCE(NULLIF(LTRIM(RTRIM(Product_Name)), ''), 'not available'),
+    Category = COALESCE(NULLIF(LTRIM(RTRIM(Category)), ''), 'not available'),
+    Features = COALESCE(NULLIF(LTRIM(RTRIM(Features)), ''), 'not available');
+
+
+/* ===========================
+   RATINGS
+   =========================== */
+
+UPDATE Ratings
+SET
+    Or_ID = COALESCE(NULLIF(LTRIM(RTRIM(Or_ID)), ''), 'not available');
+
+
+/* ===========================
+   RETURNS & REFUNDS
+   =========================== */
+
+UPDATE Returns_Refunds
+SET
+    Or_ID = COALESCE(NULLIF(LTRIM(RTRIM(Or_ID)), ''), 'not available'),
+    Reason = COALESCE(NULLIF(LTRIM(RTRIM(Reason)), ''), 'not available'),
+    Return_Refund = COALESCE(NULLIF(LTRIM(RTRIM(Return_Refund)), ''), 'not available');
+
+
+
+/* ===========================
+   TRANSACTIONS
+   =========================== */
+
+UPDATE Transactions
+SET
+    Tr_ID = COALESCE(NULLIF(LTRIM(RTRIM(Tr_ID)), ''), 'not available'),
+    Or_ID = COALESCE(NULLIF(LTRIM(RTRIM(Or_ID)), ''), 'not available'),
+    Transaction_Mode = COALESCE(NULLIF(LTRIM(RTRIM(Transaction_Mode)), ''), 'not available'),
+    Tran_Status = COALESCE(NULLIF(LTRIM(RTRIM(Tran_Status)), ''), 'not available');
+
+
+/* ===========================
+   Delivery 
+   =========================== */
+
+UPDATE Delivery
+SET
+    DP_ID = COALESCE(NULLIF(LTRIM(RTRIM(DP_ID)), ''), 'not available'),
+    DP_Name = COALESCE(NULLIF(LTRIM(RTRIM(DP_Name)), ''), 'not available');
